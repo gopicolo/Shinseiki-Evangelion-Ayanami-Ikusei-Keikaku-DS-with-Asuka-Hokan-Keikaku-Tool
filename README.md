@@ -41,10 +41,10 @@ Rebuilds final `.scd` files using the repacked scripts, matching the original fi
 These are optional tools if you want to extract or replace the in-game font.
 
 ### 5. `unpack.py` (NFTR version)
-Extracts a `.nftr` font from arm9.bin`.
+Extracts a `.nftr` font from arm9.bin
 
 ### 6. `repack.py` (NFTR version)
-Reinserts a `.nftr` font into arm9.bin`.
+Reinserts a `.nftr` font into arm9.bin
 
 ---
 
