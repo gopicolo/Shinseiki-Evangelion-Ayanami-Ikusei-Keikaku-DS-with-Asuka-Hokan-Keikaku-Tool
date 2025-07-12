@@ -1,4 +1,4 @@
-This tool was created by gopicolo for extracting and reinserting text in the game Shinseiki Evangelion Ayanami Ikusei Keikaku DS with Asuka Hokan Keikaku
+This tool was created by gopicolo for extracting and reinserting text in the game Shinseiki Evangelion Ayanami Ikusei Keikaku DS with Asuka Hokan Keikaku.
 
 # Shinseiki Evangelion Ayanami Ikusei Keikaku DS with Asuka Hokan Keikaku – Extraction and Repacking Tools
 A set of Python scripts to extract, translate, repack, and rebuild `.scd` files from Nintendo DS games. The tools are primarily designed for translation and fan localization projects.
